@@ -1,3 +1,9 @@
+# My Settings:
+.vscode
+lib
+bin
+my-notes.txt
+
 # Compiled class file
 *.class
 
